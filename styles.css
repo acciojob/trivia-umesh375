@@ -1,8 +1,9 @@
-:quotatio{
+blockquote {
   Max-width: 600px;
-- Margin:10px;
-- Padding:15px;
-- Border-left: 8px solid: green;
-- Background-color:close #f8fffe;
-- Font-weight:Bold;
+  Margin: 10px;
+  Padding: 15px;
+  Border-left: 8px;
+  Border-left: color: green;
+  Background-color: #f8fffe;
+  Font-weight: bold;
 }
